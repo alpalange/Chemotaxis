@@ -31,8 +31,8 @@ void draw(){
 class Walker {
   int x,y;
   Walker(){
-    x = 250;
-    y = 250;
+    x = 360;
+    y = 100;
   }
   void walk(){
     if(x>200){
